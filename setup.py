@@ -22,7 +22,7 @@ setup(
 
 	entry_points = '''
         [console_scripts]
-        pygitio=pygitio:main
+        pygitio=cli:main
     ''',
 
 	project_urls = {
