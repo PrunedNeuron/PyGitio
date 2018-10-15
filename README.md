@@ -53,3 +53,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://github.com/hsuay/PyGitio/blob/master/LICENSE.md)
+
+## Mirrors
+
+* [BitBucket](https://bitbucket.org/hsuay/pygitio)
+
+## Links
+
+* [Say thanks!](https://saythanks.io/to/hsuay)
+* [Buy me a coffee!](http://bmc.xyz/ayush)
