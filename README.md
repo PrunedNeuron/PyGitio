@@ -31,7 +31,7 @@ $ pygitio https://github.com/hsuay ayush
 
 This will copy the shortened URL, https://git.io/ayush to the clipboard.
 
-<a href="https://cl.ly/e955b5fa6d46" target="_blank"><img src="https://duaw26jehqd4r.cloudfront.net/items/1q3T0K1W1v3O323M2j0E/Image%202018-10-15%20at%201.07.38%20PM.png" style="display: block;height: auto;width: 100%;border-radius: 5px;"/></a>
+![](https://duaw26jehqd4r.cloudfront.net/items/1q3T0K1W1v3O323M2j0E/Image%202018-10-15%20at%201.07.38%20PM.png)
 
 ## Dependencies
 
