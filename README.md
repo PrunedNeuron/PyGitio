@@ -14,7 +14,7 @@ $ pip install PyGitio
 ```
 or directly from the source, 
 ```
-$ git clone https://github.com/hsuay/PyGitio.git && pip install -e .
+$ git clone https://github.com/hsuay/PyGitio.git && pip install -e PyGitio
 ```
 
 ## Usage
