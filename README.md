@@ -56,6 +56,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Mirrors
 
+* [GitHub](https://github.com/hsuay/PyGitio)
 * [BitBucket](https://bitbucket.org/hsuay/pygitio)
 
 ## Links
