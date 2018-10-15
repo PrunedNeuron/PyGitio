@@ -12,6 +12,10 @@ PyGitio is a cli wrapper for the git.io URL shortener with support for custom UR
 ```
 $ pip install PyGitio
 ```
+or directly from the source, 
+```
+$ git clone https://github.com/hsuay/PyGitio.git && pip install -e .
+```
 
 ## Usage
 
@@ -31,7 +35,11 @@ $ pygitio https://github.com/hsuay ayush
 
 This will copy the shortened URL, https://git.io/ayush to the clipboard.
 
+<div align = "center">
+
 ![](https://duaw26jehqd4r.cloudfront.net/items/1q3T0K1W1v3O323M2j0E/Image%202018-10-15%20at%201.07.38%20PM.png)
+
+</div>
 
 ## Dependencies
 
