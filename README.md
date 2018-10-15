@@ -1,4 +1,4 @@
-# **PyGitio** ![PyPI](https://img.shields.io/pypi/v/nine.svg)
+# **PyGitio** [![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://pypi.org/project/PyGitio/)
 
  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 

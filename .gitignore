@@ -2,3 +2,4 @@
 /build
 /PyGitio.egg-info
 /__pycache__
+/env
