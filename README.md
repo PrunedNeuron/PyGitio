@@ -1,4 +1,4 @@
-# **PyGitio** [![PyPI version shields.io](https://img.shields.io/pypi/v/PyGitio.svg?style=popout-square)](https://pypi.python.org/pypi/PyGitio/) ![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/pypi/PyGitio.svg?style=popout-square) ![GitHub](https://img.shields.io/github/license/hsuay/PyGitio.svg?style=popout-square) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=popout-square)]() [![HitCount](http://hits.dwyl.io/hsuay/PyGitio.svg)](http://hits.dwyl.io/hsuay/PyGitio) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg?style=popout-square) 
+# **PyGitio** [![PyPI version shields.io](https://img.shields.io/pypi/v/PyGitio.svg?style=popout-square)](https://pypi.python.org/pypi/PyGitio/) ![GitHub](https://img.shields.io/github/license/hsuay/PyGitio.svg?style=popout-square) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=popout-square)]() [![HitCount](http://hits.dwyl.io/hsuay/PyGitio.svg)](http://hits.dwyl.io/hsuay/PyGitio) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg?style=popout-square) 
 
 
 
@@ -8,7 +8,7 @@
 
 PyGitio is a cli wrapper for the git.io URL shortener with support for custom URLs.
 
-## Installation ![PyPI - Status](https://img.shields.io/pypi/status/PyGitio.svg?style=popout-square) ![PyPI - Format](https://img.shields.io/pypi/format/Django.svg?style=popout-square)
+## Installation ![PyPI - Format](https://img.shields.io/pypi/format/Django.svg?style=popout-square)
 
 
 
