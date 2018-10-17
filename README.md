@@ -1,10 +1,16 @@
-# **PyGitio** [![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://pypi.org/project/PyGitio/)
+# **PyGitio** [![PyPI version shields.io](https://img.shields.io/pypi/v/PyGitio.svg?style=popout-square)](https://pypi.python.org/pypi/PyGitio/) ![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/pypi/PyGitio.svg?style=popout-square) ![GitHub](https://img.shields.io/github/license/hsuay/PyGitio.svg?style=popout-square)[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=popout-square)]()[![HitCount](http://hits.dwyl.io/hsuay/PyGitio.svg)](http://hits.dwyl.io/hsuay/PyGitio) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg?style=popout-square) 
+
+
+
+
 
  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 PyGitio is a cli wrapper for the git.io URL shortener with support for custom URLs.
 
-## Installation
+## Installation ![PyPI - Status](https://img.shields.io/pypi/status/PyGitio.svg?style=popout-square) ![PyPI - Format](https://img.shields.io/pypi/format/Django.svg?style=popout-square)
+
+
 
 ### Requirements
 * Python 3
@@ -48,6 +54,7 @@ This will copy the shortened URL, https://git.io/ayush to the clipboard.
 * **Pyperclip** - [PyPi](https://pypi.org/project/pyperclip/) | [Repository](https://github.com/asweigart/pyperclip)
 
 ## Development
+
 [![Feel free.](https://forthebadge.com/images/badges/fo-sho.svg)](https://media.tenor.com/images/987ccf67f8644c015d5b4bea3e51132b/tenor.gif)
 
 ```
@@ -56,10 +63,12 @@ $ . env/bin/activate
 $ pip install -e .
 ```
 
-## Contributing
+## Contributing 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=popout-square)](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/hsuay)
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
+## License ![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)
 [MIT](https://github.com/hsuay/PyGitio/blob/master/LICENSE.md)
 
 ## Mirrors
