@@ -64,7 +64,7 @@ $ pip install -e .
 ```
 
 ## Contributing 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=popout-square)](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/hsuay)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=popout-square)](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project) [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg?style=popout-square)](https://saythanks.io/to/hsuay)
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
